@@ -1,0 +1,10 @@
+Serial7	KEYWORD1
+begin   KEYWORD2
+send    KEYWORD2
+reset	KEYWORD2
+brightness	KEYWORD2
+print	KEYWORD2
+write	KEYWORD2
+clock12	KEYWORD2
+clock24	KEYWORD2
+animation KEYWORD2
